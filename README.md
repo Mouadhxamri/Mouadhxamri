@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouadhxamri&show_icons=true&locale=en" alt="mouadhxamri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadhxamri&" alt="mouadhxamri" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouadhxamri&label=Profile%20views&color=0e75b6&style=flat" alt="mouadhxamri" /> </p>
